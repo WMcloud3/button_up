@@ -1,0 +1,23 @@
+body button:nth-child(1){
+    background-color: bisque;
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 1em;
+    padding: 0 6%;
+    margin-bottom: 2%;
+}
+
+body button:nth-child(3){
+    color: white;
+    background-color: blue;
+    border-radius: 50%;
+    border: 2px solid blue;
+    margin-bottom: 2%;
+}
+
+body button:nth-child(5){
+    color: white;
+    background-color: red;
+    box-shadow: 10px 5px 5px black;
+    border: 2px solid black;
+}
